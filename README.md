@@ -5,8 +5,7 @@
 This project analyzes credit card transactions using Power BI to provide detailed insights into customer behavior, spending categories, and card usage patterns. 
 The dashboard offers a comprehensive look at revenue trends across different demographics, card types, and transaction methods, allowing for better business decision-making.
 
-![Credit Card Transaction Report Dashboard Screenshot](./Credit-Card-Transaction-Report_Dashboard.png)
-![Credit Card Customer Report Dashboard Screenshot](./Credit-Card-Customer-Report_Dashboard.png)
+
 
 ## Key Insights
 
