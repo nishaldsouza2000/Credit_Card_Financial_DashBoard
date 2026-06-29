@@ -107,4 +107,4 @@ For more details or collaboration:
 
 * **Name**: Nishal D'Souza
 * **Email**: [nishaldsouza2000@gmail.com](mailto:nishaldsouza2000@gmail.com)
-* **LinkedIn**: https://linkedin.com/in/nishaldsouza16
+* **LinkedIn**: [nishaldsouza](https://linkedin.com/in/nishaldsouza16)
