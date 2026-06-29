@@ -105,6 +105,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For more details or collaboration:
 
-* **Name**: Nishal D'Souza
+* **Name**: Nishal Dsouza
 * **Email**: [nishaldsouza2000@gmail.com](mailto:nishaldsouza2000@gmail.com)
 * **LinkedIn**: [nishaldsouza](https://linkedin.com/in/nishaldsouza16)
