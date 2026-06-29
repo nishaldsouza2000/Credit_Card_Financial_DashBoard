@@ -99,7 +99,7 @@ Feel free to reach out for any feedback or collaboration opportunities!
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
